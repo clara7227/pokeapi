@@ -1,0 +1,2 @@
+#pkmn{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;list-style:none;display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr}#pkmn .element{margin:5px;background-color:#e7f1f4;display:block;text-align:center;padding:20px 10px 30px 10px}#pkmn .element img{height:120px;background-color:#a7cee4;object-fit:cover;border-radius:80px}#pkmn .pokemon-name{font-size:30px}#pkmn li{background-color:#80a9b3;padding:20px}#pkmn .versiones{font-size:0.7em;line-height:1.5em;color:grey}
+/*# sourceMappingURL=styles.css.map */
